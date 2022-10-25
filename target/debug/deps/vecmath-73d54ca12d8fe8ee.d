@@ -1,0 +1,8 @@
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/deps/vecmath-73d54ca12d8fe8ee.rmeta: /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/traits.rs
+
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/deps/libvecmath-73d54ca12d8fe8ee.rlib: /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/traits.rs
+
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/deps/vecmath-73d54ca12d8fe8ee.d: /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/traits.rs
+
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/lib.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/vecmath-1.0.0/src/traits.rs:
