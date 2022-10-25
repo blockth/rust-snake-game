@@ -2,7 +2,7 @@ use piston_window::types::Color;
 use piston_window::{Context, G2d};
 use std::collections::LinkedList;
 
-use draw::draw_block;
+use crate::draw::draw_block;
 
 const SNAKE_COLOR: Color = [0.0, 0.80, 0.0, 1.0]; //RGB + Opacity
 
@@ -25,7 +25,8 @@ impl Direction {
         }
     }
 }
-#[derive(Copy, Debug)] //clone trait allows to clone naturally! :D
+
+#[derive(Debug, Clone)] //clone trait allows to clone naturally! :D
 struct Block {
     x: i32,
     y: i32,
@@ -125,7 +126,7 @@ impl Snake {
             ch += 1;
             if ch == self.body.len() - 1 {
                 // tail and head occupy same block for a moment?
-                brek;
+                break;
             }
         }
         return false;

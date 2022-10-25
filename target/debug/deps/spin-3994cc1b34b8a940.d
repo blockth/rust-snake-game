@@ -1,0 +1,12 @@
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/deps/spin-3994cc1b34b8a940.rmeta: /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs
+
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/deps/spin-3994cc1b34b8a940.d: /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs /Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs
+
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs:

@@ -1,1 +1,1 @@
-/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/tensor-snake: /Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/src/main.rs
+/Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/target/debug/tensor-snake: /Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/src/draw.rs /Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/src/game.rs /Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/src/main.rs /Users/bogachanyigitbasi/Desktop/RUST/1st/tensor-snake/src/snake.rs
